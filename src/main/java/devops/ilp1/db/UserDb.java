@@ -9,6 +9,7 @@ import devops.ilp1.model.User;
 
 public class UserDb {
 	
+	
 	public static String[][] users;
 	public static List<User>  usersData;
 	
