@@ -50,7 +50,11 @@ span.psw {
 </style>
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>Welcome Everyone to DevOps Solutions !!!</h1>
+=======
+	<h1>Welcome Everyone to DevOps Solutions </h1>
+>>>>>>> 50cb0f2fa5dae17cabb86b0d23f6b832f8d33418
 	<form action="Login" method="post">
 	  <div class="container" >
 	    <label><b>Email</b></label>
