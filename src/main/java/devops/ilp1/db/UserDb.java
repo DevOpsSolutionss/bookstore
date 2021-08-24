@@ -19,14 +19,12 @@ public class UserDb {
 		
 		User u1=new User("Avinash","Patel","1234","avinash.patel@wipro.com");
 		User u2=new User("Prakash","Ramamurthy","abcd","prakash.ramamurthy@wipro.com");
-		User u3=new User("Raghavendran","Sethumadhavan","pqrs","raghavendran.sethumadhavan1@wipro.com");
-		User u4=new User("Deepanshu","Kumar","1234","deepanshu.kumar1@wipro.com");
+		User u3=new User("Deepanshu","Kumar","1234","deepanshu.kumar1@wipro.com");
 	
 		
 		userProfile.put(u1.getEmail(), u1);
 		userProfile.put(u2.getEmail(), u2);
 		userProfile.put(u3.getEmail(), u3);
-		userProfile.put(u3.getEmail(), u4);
 //		String[] user1 ={"Avinash","Patel","1234","avinash.patel@wipro.com"};
 //		String[] user2 ={"Prakash","Ramamurthy","abcd","prakash.ramamurthy@wipro.com"};
 //		String[] user3 ={"Raghavendran","Sethumadhavan","pqrs","raghavendran.sethumadhavan1@wipro.com"};
